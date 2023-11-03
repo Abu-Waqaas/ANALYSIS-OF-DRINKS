@@ -48,6 +48,20 @@ The country with the highest profit in 2019 was Ghana with the total profit of 7
 
 ![Screenshot (154)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/0559594c-a102-45d2-a8ff-a14e8b9fe84a)
 
+Q4). Help him find the year with the highest profit.
+The year with the highest profit is 2017 with #38,503,320
+
+![Screenshot (156)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/4cc24aeb-01b8-4966-a015-f487a302e325)
+
+
+Q5). Which month in the three years was the least profit generated?
+The month with lowest profit is April and a sum of 8,573,830 was generated as the total profit acrross the 3 years
+
+![Screenshot (167)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/2476ad65-fbf8-4972-8765-a86b03805926)
+
+
+Q6). 
+
 
 
 
@@ -55,7 +69,6 @@ The country with the highest profit in 2019 was Ghana with the total profit of 7
 # OBSERVATIONS
 
 
-![Screenshot (146)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/4608c17c-0809-4ce2-906a-5fd3a066f28f)
 
 
 
