@@ -31,7 +31,7 @@ Also the brand names were changed from beer names to some soft drinks.
 ![Screenshot (147)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/e3972a25-15cd-40d2-9de6-8c0a8e4d50f5)
 
 
-                      # ANALYSIS OF THE RESULTS
+# ANALYSIS OF THE RESULTS
 Q1). Within the space of the last three years, what was the profit worth of the breweries,  inclusive of the anglophone and the francophone territories?
 The company has made a total profit of #105,587,420 across the 5 countries from 2017 - 2019 iclusively
 
@@ -53,4 +53,10 @@ The country with the highest profit in 2019 was Ghana with the total profit of 7
 
 
 # OBSERVATIONS
+
+
+![Screenshot (146)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/4608c17c-0809-4ce2-906a-5fd3a066f28f)
+
+
+
 # RECOMMENDATIONS
