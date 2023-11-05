@@ -34,7 +34,8 @@ Also the brand names were changed from beer names to some soft drinks.
 # ANALYSIS OF THE RESULTS
 
 ## PROFIT ANALYSIS
-Q1). Within the space of the last three years, what was the profit worth of the breweries,  inclusive of the anglophone and the francophone territories?
+### Q1). Within the space of the last three years, what was the profit worth of the breweries,  inclusive of the anglophone and the francophone territories?
+
 The company has made a total profit of #105,587,420 across the 5 countries from 2017 - 2019 iclusively
 
 ![Screenshot (148)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/bebbb003-b38d-4ed3-949b-a8ba1f79de98) 
