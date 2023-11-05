@@ -60,7 +60,25 @@ The month with lowest profit is April and a sum of 8,573,830 was generated as th
 ![Screenshot (167)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/2476ad65-fbf8-4972-8765-a86b03805926)
 
 
-Q6). 
+Q6). What was the minimum profit in the month of December 2018?
+The minimum profit earned in Decmber 2018 is 38150 
+
+![Screenshot (169)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/4034968c-4412-4fda-b958-df09910fbe04)
+
+
+Q7). Compare the profit in percentage for each of the month in 2019
+January has the highest(10.87) percentage while February has the lowest (4.55%) percentage
+
+![Screenshot (173)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/f91b3721-eb50-46b3-9116-50d98d96c957)
+
+
+Q8). Which particular brand generated the highest profit in Senegal?
+The brand with the highest profit in Senegal is Teem with the total profit of #7,012,980
+
+![Screenshot (174)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/f1166080-37cc-4a6f-8d61-733da3662cee)
+
+
+## BRAND ANALYSIS
 
 
 
@@ -73,3 +91,4 @@ Q6).
 
 
 # RECOMMENDATIONS
+
