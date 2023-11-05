@@ -32,6 +32,8 @@ Also the brand names were changed from beer names to some soft drinks.
 
 
 # ANALYSIS OF THE RESULTS
+
+## PROFIT ANALYSIS
 Q1). Within the space of the last three years, what was the profit worth of the breweries,  inclusive of the anglophone and the francophone territories?
 The company has made a total profit of #105,587,420 across the 5 countries from 2017 - 2019 iclusively
 
@@ -79,6 +81,68 @@ The brand with the highest profit in Senegal is Teem with the total profit of #7
 
 
 ## BRAND ANALYSIS
+Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
+The top 3 brands are Beta malt, Pepsi, Grand Malt
+
+![Screenshot (176)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/2223c1d2-ac45-4bcd-ba89-f7f9a67f5a19)
+
+Q2). Find out the top two choice of consumer brands in Ghana
+The top 2 Brands in Ghana are 7up and Teem
+
+
+Q3). Find out the details of drinks consumed in the past three years in the most oil rich country in West  Africa.
+Nigeria being the most oil rich country in West Africa, so we find the details of drink conssumed in Nigeria
+
+![Screenshot (180)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/eb2cd55a-b380-4bc0-8c00-557179c4c934)
+
+
+Q4). Favorites malt brand in Anglophone region between 2018 and 2019
+The favourite Malt drink in the Anglophone country is Beta Malt
+
+![Screenshot (181)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/c186945d-fe1c-4d5e-9e0c-4b7bb2652f17)
+
+Q5). Which brands sold the highest in 2019 in Nigeria?
+The brand which sold highest in 2019 was Limca
+
+![Screenshot (182)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/fc9ff22e-345d-45f0-a27d-fa272df14897)
+
+Q6). Favorites brand in South South region in Nigeria
+The favorites brand in S0uthsouth region of Nieria is Limca 
+
+![Screenshot (184)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/8e8ca4bc-0edc-4ea8-87fc-068a151f821c)
+
+Q7). Drinks consumption in Nigeria
+
+![Screenshot (185)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/a8e1515d-84a1-4f06-8e83-b63912d2b4b8)
+
+
+Q8). Level of consumption of Pepsi in the regions in Nigeria
+
+![Screenshot (186)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/239743e2-2a1c-49af-95a7-04a76ac10d06)
+
+Q9). Level of consumption of Pepsi in the regions in Nigeria in 2019.
+
+![Screenshot (187)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/3bc9b235-7a5e-4b66-a781-7740d7e0ad55)
+
+## GEO-LOCATION ANALYSIS
+Q1). Country with the highest consumption of Non Malt Drinks.
+The country with the highest consumption of Non Malt Drinks is Ghana and the drink is Cocacola
+
+![Screenshot (188)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/871ab8fd-5cb0-4673-b3d6-690262f6309b)
+
+Q2). Highest sales personnel of Limca in Senegal
+The sales personnel who sell Limca most in Senegal is Sorvino
+
+![Screenshot (189)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/e5b0c0c6-a118-474d-9135-92603b19751a)
+
+Q3). Country with the highest profit of the fourth quarter in 2019  
+The country with the highest profit in tthe 4th year in 2019 is Ghana
+
+![Screenshot (191)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/685ffa59-aa7e-4504-8224-d4938db80067)
+
+
+
+
 
 
 
