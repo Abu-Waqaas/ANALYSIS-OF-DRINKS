@@ -89,6 +89,9 @@ The top 3 brands are Beta malt, Pepsi, Grand Malt
 Q2). Find out the top two choice of consumer brands in Ghana
 The top 2 Brands in Ghana are 7up and Teem
 
+![Screenshot (192)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/d6ffd6d5-253e-40f4-9608-d2934dd723f6)
+
+
 
 Q3). Find out the details of drinks consumed in the past three years in the most oil rich country in West  Africa.
 Nigeria being the most oil rich country in West Africa, so we find the details of drink conssumed in Nigeria
