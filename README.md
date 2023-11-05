@@ -40,67 +40,78 @@ The company has made a total profit of #105,587,420 across the 5 countries from 
 
 ![Screenshot (148)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/bebbb003-b38d-4ed3-949b-a8ba1f79de98) 
 
-Q2). Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.  
+### Q2). Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.  
+
 There are 3 Francophones countries(Senegal, Togo, and Benin) and 2 Anglophone countries (Ghana and Nigeria).
 63,198,160 was made from  Francophone countries and 42,389,260 was made from the Anglophone countries
 
 ![Screenshot (152)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/00366f33-4f58-45a8-9fe0-9299a97da819)
 
-Q3). Country that generated the highest profit in 2019
+### Q3). Country that generated the highest profit in 2019
+
 The country with the highest profit in 2019 was Ghana with the total profit of 7,144,070
 
 ![Screenshot (154)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/0559594c-a102-45d2-a8ff-a14e8b9fe84a)
 
-Q4). Help him find the year with the highest profit.
+### Q4). Help him find the year with the highest profit.
+
 The year with the highest profit is 2017 with #38,503,320
 
 ![Screenshot (156)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/4cc24aeb-01b8-4966-a015-f487a302e325)
 
 
-Q5). Which month in the three years was the least profit generated?
+### Q5). Which month in the three years was the least profit generated?
+
 The month with lowest profit is April and a sum of 8,573,830 was generated as the total profit acrross the 3 years
 
 ![Screenshot (167)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/2476ad65-fbf8-4972-8765-a86b03805926)
 
 
-Q6). What was the minimum profit in the month of December 2018?
+### Q6). What was the minimum profit in the month of December 2018?
+
 The minimum profit earned in Decmber 2018 is 38150 
 
 ![Screenshot (169)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/4034968c-4412-4fda-b958-df09910fbe04)
 
 
-Q7). Compare the profit in percentage for each of the month in 2019
+### Q7). Compare the profit in percentage for each of the month in 2019
+
 January has the highest(10.87) percentage while February has the lowest (4.55%) percentage
 
 ![Screenshot (173)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/f91b3721-eb50-46b3-9116-50d98d96c957)
 
 
-Q8). Which particular brand generated the highest profit in Senegal?
+### Q8). Which particular brand generated the highest profit in Senegal?
+
 The brand with the highest profit in Senegal is Teem with the total profit of #7,012,980
 
 ![Screenshot (174)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/f1166080-37cc-4a6f-8d61-733da3662cee)
 
 
 ## BRAND ANALYSIS
-Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
+### Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
+
 The top 3 brands are Beta malt, Pepsi, Grand Malt
 
 ![Screenshot (176)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/2223c1d2-ac45-4bcd-ba89-f7f9a67f5a19)
 
-Q2). Find out the top two choice of consumer brands in Ghana
+### Q2). Find out the top two choice of consumer brands in Ghana
+
 The top 2 Brands in Ghana are 7up and Teem
 
 ![Screenshot (192)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/d6ffd6d5-253e-40f4-9608-d2934dd723f6)
 
 
 
-Q3). Find out the details of drinks consumed in the past three years in the most oil rich country in West  Africa.
+### Q3). Find out the details of drinks consumed in the past three years in the most oil rich country in West  Africa.
+
 Nigeria being the most oil rich country in West Africa, so we find the details of drink conssumed in Nigeria
 
 ![Screenshot (180)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/eb2cd55a-b380-4bc0-8c00-557179c4c934)
 
 
-Q4). Favorites malt brand in Anglophone region between 2018 and 2019
+### Q4). Favorites malt brand in Anglophone region between 2018 and 2019
+
 The favourite Malt drink in the Anglophone country is Beta Malt
 
 ![Screenshot (181)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/c186945d-fe1c-4d5e-9e0c-4b7bb2652f17)
