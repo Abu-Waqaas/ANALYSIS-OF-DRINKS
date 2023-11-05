@@ -21,7 +21,8 @@ Region: What region of Africa does sthe country falls
 Months when waas the sales made.                                           
 YEARS: The year each sales was made                                    
 Language: To know if the country is an English speaking countrhy or French speaking country                         
-
+Quarters: The months were grouped into 4 Quarters
+Drink Types; Thedrinks were classifie into 'Malt drinks' and 'Non Malt Drinks' 
 
 
 For us to be able to provide answers to a particular question that was asked from the country, a new column named (LANGUAGE) was created, the essence of this is to separate the ANGLOPHONE countries from the FRANCOPHONES. 
