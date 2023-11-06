@@ -166,7 +166,7 @@ The sales personnel who sell Limca most in Senegal is Sorvino
 
 ### Q3). Country with the highest profit of the fourth quarter in 2019  
 
-The country with the highest profit in tthe 4th year in 2019 is Ghana
+The country with the highest profit in the 4th quarter of2019 is Ghana
 
 ![Screenshot (191)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/685ffa59-aa7e-4504-8224-d4938db80067)
 
