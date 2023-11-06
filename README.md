@@ -87,7 +87,7 @@ The minimum profit earned in Decmber 2018 is 38150
 
 ### Q7). Compare the profit in percentage for each of the month in 2019
 
-January has the highest(10.87) percentage while February has the lowest (4.55%) percentage
+January has the highest(10.87%) percentage while February has the lowest (4.55%) percentage
 
 ![Screenshot (173)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/f91b3721-eb50-46b3-9116-50d98d96c957)
 
