@@ -10,19 +10,19 @@ The dataset has 13 attributes with 1047 records from the onset and the name of t
 ### let's explain the columns in details. 
 Sales_ID: This is the ID generated for each sales made.                      
 Sales_Rep: This is the representative who made the sales.                          
-Brands: the name of the products (Cocacola, Pepsi, 7up, Teem, Limca, Beta malt and Grand malt).                    
-Plant_cost: The price the product was bought from the producer                             
+Brands: The name of the products (Cocacola, Pepsi, 7up, Teem, Limca, Beta malt and Grand malt).                    
+Plant_cost: This is the price our company bough the product from the producer                             
 Unit_price: The price the company sells each product.                              
 Quantity: The number of drink sold.                                           
 Cost: The amount the buyer paid to our company.   in Naira(#)                                 
 Profit: (Unit_price - Plant_cost) * quantity   in Naira(#)                                  
 Countries: The country each sales was made                                                 
-Region: What region of Africa does sthe country falls                                          
-Months when waas the sales made.                                           
+Region: What region of the country was the sales made                                          
+Months when was the sales made.                                           
 YEARS: The year each sales was made                                    
-Language: To know if the country is an English speaking countrhy or French speaking country                         
+Language: To know if the country is an English speaking country ora French speaking country                         
 Quarters: The months were grouped into 4 Quarters
-Drink Types; Thedrinks were classifie into 'Malt drinks' and 'Non Malt Drinks' 
+Drink Types; The drinks were classified into 'Malt drinks' and 'Non Malt Drinks' 
 
 
 For us to be able to provide answers to a particular question that was asked from the country, a new column named (LANGUAGE) was created, the essence of this is to separate the ANGLOPHONE countries from the FRANCOPHONES. 
@@ -30,6 +30,16 @@ For us to be able to provide answers to a particular question that was asked fro
 
 Also the brand names were changed from beer names to some soft drinks.
 ![Screenshot (147)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/e3972a25-15cd-40d2-9de6-8c0a8e4d50f5)
+
+A column for Quarter was created 
+
+![Screenshot (193)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/d00c42c4-cd3a-4702-8bcd-ac8e431098b9)
+
+Drink type column was also created so aas to differentiate the Malt type from the non malt type
+
+![Screenshot (194)](https://github.com/Abu-Waqaas/ANALYSIS-OF-DRINKS/assets/106377378/c9ea221c-946a-43e2-89f9-fd36849aa594)
+
+
 
 
 # ANALYSIS OF THE RESULTS
