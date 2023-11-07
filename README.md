@@ -174,15 +174,31 @@ The country with the highest profit in the 4th quarter of2019 is Ghana
 
 
 
-
-
-
-
 # OBSERVATIONS
+1.The company made her highest sales in 2017, 2018 and then 2019.
+2. from the analysis we could see that the company maade more profit in 2017, follow by 2018 and then 2019.
+3. Their was more than #700,000 profit between 2019 and 2018.
+4. The company has 11 Sales Representatives across the  five countries
+5. For proper evaluation of the staff we decided to look deeper into the profit made by each of our staff and we discovered that in 2017 Jones #5,932,430 and Kivell made the least profit of #1,517,590, in 2018 Jones again made the total profit of #6,556,160 and Howard made the least profit of #1,255,020 meanwhile Kivell has moved upto the 7th position in the revenue generated with total amount of #3,058,200 and in 2019, Jones still maintain its position with a profit of #6,282,240 and Howard made the least profit again with a profit of #1,191,680.
+6. Overall Jones made the highest profits with #18,770,830, followed by Jardine with a total profit of #13,531,650 and Gill maade the 3rd position with #12, 290, 130.
+7. We also need to access to that made the least profit so as to know how to asssist them with the strategies the top 3 are using, so they can also enhance their selling/ marketing skills to help them generate more profits for the company.
+8. Limca, Teem and Cocacola are the overall top 3 choice of the people, but the company generated more profits on Teem, Pepsi and 7up respectively.
+9. The company generated more profits in Senegal, followed by Nigeria and thirdly Ghana.
+Now, Let's access the top 3 product that are being purchased in each of this top 3 countries.
+10. The Senegalese take Limca most, followed by Teem and then Pepsi.
+11. In Nigeria, the people favourites are Pepsi, 7up and Limca respectively.
+12. Ghanians request for 7up, followed by teem and Limca as their topn 3 brands.
 
 
 
 
 
 # RECOMMENDATIONS
+1. The company should look into why their sales was decreasing year by year.
+2. What did the company did in Year 2017 that made them have good sales.
+3. Is ther any srategy the companynis ung in Senegal that is making their product sell more their, if there is then the company should implement the same in other countries.
+4. The companynshould make sure the top 3 products in all the countries are alwsys make available at every point in time.
+5. The company should try increasing the number of company they have in the top 3 countries and make sure it invest a lot in their most prefeered drinks.
+6. The company should encourage the best worker per year, so as to serve as a driving force for the underperforming staff.
+7. If Possible, the bottom 3 sales representative, should be pair with the top 3 sales representatives, for few days so they can learn from them directly.
 
