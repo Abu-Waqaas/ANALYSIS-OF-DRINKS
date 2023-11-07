@@ -23,7 +23,7 @@ WHEN Brands = 'eagle lager'  THEN '7up'
 WHEN Brands = 'hero'         THEN 'Limca'
 WHEN Brands = 'beta malt'    THEN 'Beta malt'
 WHEN Brands = 'grand malt'   THEN 'Grand malt'
- END;
+END;
 
 # To be able to answer the questions we have on these question we need to create a new column
 ## for the FRANCOPHONES and ANGLOPHONES 
@@ -34,7 +34,7 @@ ALTER TABLE international_breweries ADD LANGUAGE Varchar(20);
 UPDATE international_breweries
 SET Language = CASE
 					WHEN countries = 'Ghana'    THEN 'Anglophone'
-                    WHEN countries = 'Nigeria'  THEN 'Anglophone'
+                                        WHEN countries = 'Nigeria'  THEN 'Anglophone'
 					WHEN countries = 'Togo'     THEN 'Francophone'
 					WHEN countries = 'Benin'    THEN 'Francophone'
 					WHEN countries = 'Senegal'  THEN 'Francophone'
