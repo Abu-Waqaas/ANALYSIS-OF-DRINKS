@@ -16,9 +16,6 @@ So, I applied my Data Analysis skills to help the company uncover the secrets in
 4. Data-Driven Decision Making: Provide actionable recommendations to OYES' Beverages based on the analysis findings, allowing them to make informed, data-driven decisions to increase profitability in the upcoming year.
 5. Enhanced Data Utilization: Assist the company in harnessing the power of their data for ongoing decision-making processes and long-term strategic planning.
 
-These aims and objectives should help guide your data analysis project in addressing the specific challenges and goals outlined in your write-up.
-
-
 # DATA SOURCE
 The dataset was gotten from the company and it's a CSV file.
 # DATA PREPARATION/ DATA MANIPULATION
