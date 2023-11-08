@@ -1,5 +1,7 @@
 # ANALYSIS-OF-DRINKS
-This is an analysis of drinks consumption across 5 countries in Africa from 2017 - 2019
+A company named OYES' Beverages, which deals with selling drinks, noticed a decrease in the profit generated in 2019 compared to 2018 and 2017. As a result, this company requested my services as a Data Analyst to help them uncover the secrets hidden in their data. This business has operations in five different countries across Africa.
+So, I applied my Data Analysis skills to help the company uncover the secrets in their data and provide them with deeper insights about the company. This will enable them to harness the power of their data to make data-driven decisions and increase the profits they will generate in the coming year."
+
 # OBJECTIVES/ AIM 
 There is a articular company who deals with selling drinks, this company has different branches across 5 countries in Africa, so they want us to help them uncover some insights from their last 3 years data, so as to know the type of decision they will make in 2020.
 # DATA SOURCE
