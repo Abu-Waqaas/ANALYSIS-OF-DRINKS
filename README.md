@@ -2,8 +2,23 @@
 A company named OYES' Beverages, which deals with selling drinks, noticed a decrease in the profit generated in 2019 compared to 2018 and 2017. As a result, this company requested my services as a Data Analyst to help them uncover the secrets hidden in their data. This business has operations in five different countries across Africa.
 So, I applied my Data Analysis skills to help the company uncover the secrets in their data and provide them with deeper insights about the company. This will enable them to harness the power of their data to make data-driven decisions and increase the profits they will generate in the coming year."
 
-# OBJECTIVES/ AIM 
-There is a articular company who deals with selling drinks, this company has different branches across 5 countries in Africa, so they want us to help them uncover some insights from their last 3 years data, so as to know the type of decision they will make in 2020.
+# AIMS and OBJECTIVES 
+
+## AIMS
+1. Identify Profit Trends: The primary aim of the analysis is to identify and understand the trends in profit for OYES' Beverages, specifically focusing on the decrease in profit in 2019 compared to the previous two years (2018 and 2017).
+2. Uncover Key Insights: The analysis aims to uncover key insights hidden within the company's data, which could be contributing to the decline in profits.
+3. Global Perspective: Given the company's presence in five different African countries, one of the aims is to assess whether there are regional variations in profit and business performance.
+
+## OBJECTIVES:
+1. Data Exploration: Conduct a comprehensive exploration of the company's historical financial data, particularly focusing on revenue, expenses, and profit for the years 2017, 2018, and 2019.
+2. Identify Contributing Factors: Determine the factors that may have contributed to the decline in profit during 2019, which could include changes in market conditions, operational inefficiencies, or other variables.
+3. Regional Analysis: Analyze profit data on a country-by-country basis to identify any variations in performance and gain insights into regional differences that may affect the company's profitability.
+4. Data-Driven Decision Making: Provide actionable recommendations to OYES' Beverages based on the analysis findings, allowing them to make informed, data-driven decisions to increase profitability in the upcoming year.
+5. Enhanced Data Utilization: Assist the company in harnessing the power of their data for ongoing decision-making processes and long-term strategic planning.
+
+These aims and objectives should help guide your data analysis project in addressing the specific challenges and goals outlined in your write-up.
+
+
 # DATA SOURCE
 The dataset was gotten from the company and it's a CSV file.
 # DATA PREPARATION/ DATA MANIPULATION
