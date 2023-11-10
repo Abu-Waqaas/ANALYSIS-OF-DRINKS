@@ -189,30 +189,58 @@ The country with the highest profit in the 4th quarter of2019 is Ghana
 
 
 # OBSERVATIONS
-1.The company made her highest sales in 2017, 2018 and then 2019.
-2. from the analysis we could see that the company maade more profit in 2017, follow by 2018 and then 2019.
-3. Their was more than #700,000 profit between 2019 and 2018.
-4. The company has 11 Sales Representatives across the  five countries
-5. For proper evaluation of the staff we decided to look deeper into the profit made by each of our staff and we discovered that in 2017 Jones #5,932,430 and Kivell made the least profit of #1,517,590, in 2018 Jones again made the total profit of #6,556,160 and Howard made the least profit of #1,255,020 meanwhile Kivell has moved upto the 7th position in the revenue generated with total amount of #3,058,200 and in 2019, Jones still maintain its position with a profit of #6,282,240 and Howard made the least profit again with a profit of #1,191,680.
-6. Overall Jones made the highest profits with #18,770,830, followed by Jardine with a total profit of #13,531,650 and Gill maade the 3rd position with #12, 290, 130.
-7. We also need to access to that made the least profit so as to know how to asssist them with the strategies the top 3 are using, so they can also enhance their selling/ marketing skills to help them generate more profits for the company.
-8. Limca, Teem and Cocacola are the overall top 3 choice of the people, but the company generated more profits on Teem, Pepsi and 7up respectively.
-9. The company generated more profits in Senegal, followed by Nigeria and thirdly Ghana.
-Now, Let's access the top 3 product that are being purchased in each of this top 3 countries.
-10. The Senegalese take Limca most, followed by Teem and then Pepsi.
-11. In Nigeria, the people favourites are Pepsi, 7up and Limca respectively.
-12. Ghanians request for 7up, followed by teem and Limca as their topn 3 brands.
 
-
-
+1. From the analysis, it is evident that the company generated the most profit in 2017, followed by 2018 and then 2019.
+2. There was a profit difference of over #700,000 between 2019 and 2018.
+3. The company employs 11 Sales Representatives across five countries.
+4. To assess staff performance, we delved into individual profit contributions. In 2017, Jones led with a profit of #5,932,430, while Kivell had the lowest at #1,517,590. In 2018, Jones again topped with #6,556,160, and Howard had the least profit at #1,255,020. By 2019, Jones maintained the lead with #6,282,240, and Howard once again had the lowest profit at #1,191,680. Overall, Jones recorded the highest total profit of #18,770,830, followed by Jardine with #13,531,650, and Gill secured the third position with #12,290,130.
+5. A further analysis revealed the need to support those with lower profits by understanding the strategies employed by the top performers. This assistance aims to enhance selling/marketing skills and boost overall profits for the company.
+6. The top three products preferred by customers are Limca, Teem, and Cocacola. However, the highest profits were generated from Teem, Pepsi, and 7up, respectively.
+7. The company achieved the highest profits in Senegal, followed by Nigeria and Ghana.
+Now, let's assess the top three products purchased in each of these top three countries.
+8. In Senegal, Limca is the most popular, followed by Teem and then Pepsi.
+9. In Nigeria, the favored products are Pepsi, 7up, and Limca, in that order.
+10. Ghanaians prefer 7up, followed by Teem and Limca as their top three brands.
 
 
 # RECOMMENDATIONS
-1. The company should look into why their sales was decreasing year by year.
-2. What did the company did in Year 2017 that made them have good sales.
-3. Is ther any srategy the companynis ung in Senegal that is making their product sell more their, if there is then the company should implement the same in other countries.
-4. The companynshould make sure the top 3 products in all the countries are alwsys make available at every point in time.
-5. The company should try increasing the number of company they have in the top 3 countries and make sure it invest a lot in their most prefeered drinks.
-6. The company should encourage the best worker per year, so as to serve as a driving force for the underperforming staff.
-7. If Possible, the bottom 3 sales representative, should be pair with the top 3 sales representatives, for few days so they can learn from them directly.
+1. #### My first recommendation for the companyis to  introduce Staff Training and Development Program:
+   - Provide targeted training programs to Sales Representatives to enhance their selling and marketing skills.
+   - Encourage knowledge sharing among the sales team to learn from the strategies of top performers like Jones, Jardine, and Gill.
 
+2. #### The comapny should also introduce Individual Performance Assessment in this format:
+   - Implement a performance improvement plan for staff members with consistently lower profits to help them meet their targets.
+   - Conduct regular performance reviews to identify strengths and areas for improvement.
+
+3. #### If possible, the company is enjoined to perform a detailed market analysis and strategy:
+   - Conduct a detailed market analysis to understand customer preferences and adapt product offerings accordingly.
+   - Develop marketing strategies based on successful products like Teem, Pepsi, and 7up to maximize profitability.
+
+4. #### Checking each Country-specific Strategies is also another key process that needs to be access
+   - Tailor marketing strategies to each country's preferences, considering the popularity of specific drinks in different regions.
+   - Invest more resources in countries like Senegal, Nigeria, and Ghana, where higher profits are observed.
+
+5. #### The company should also create more product awareness and publicity for product with low sales
+   - Consider introducing promotions or incentives to boost sales of less popular products to diversify the product portfolio.
+   - Regularly assess product performance and make data-driven decisions to optimize the product lineup.
+
+6. #### One of the core parts I will also advise the company to look into is competitors analysis
+   - Keep a close eye on competitors in the beverage industry to stay informed about market trends and maintain a competitive edge.
+   - Try to look at some of the strategy they are using, it's not necessary to use the exact method but the company can  look at it, so as to know what to improve on and what they might probably need to stop 
+
+7. #### Your customers are your market value, they determine your worth for this reason, always engage them.
+   - Establish a feedback mechanism to understand customer preferences, and use the insights to improve products and services.
+   - Implement customer loyalty programs to encourage repeat business and enhance customer satisfaction.
+   - Ask them for feedbacks based oon your products and the customer service you rendered.
+
+9. #### Bad financial plans can ruin companies totally
+   - Develop a financial plan that accounts for seasonal variations in sales to ensure consistent profitability throughout the year.
+   - Explore cost-saving measures without compromising product quality to improve overall profit margins.
+
+10. #### Lastly, if possible try to Collaborate and Partners with as much local business as possible
+   - Explore collaborations with local businesses or events to increase brand visibility and reach a broader audience.
+   - Forge partnerships with distributors and retailers to expand market reach.
+   - Educat them on how it will be an advantage to the two parties.
+
+11. **Sustainability Initiatives:**
+    - Consider implementing sustainability initiatives in packaging and production processes to align with growing consumer preferences for eco-friendly products.
